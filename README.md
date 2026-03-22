@@ -225,6 +225,7 @@ La question revient systématiquement : faut-il choisir vidIQ ou TubeBuddy ? Les
 | **Plan gratuit** | ✅ Généreux | ✅ Plus limité |
 
 **Notre verdict** : vidIQ l'emporte sur la recherche de mots-clés, les idées quotidiennes et les fonctionnalités IA. TubeBuddy a l'avantage sur les tests A/B de miniatures et la checklist d'optimisation plus détaillée. Si votre priorité est de trouver les bons sujets et mots-clés, vidIQ est le meilleur choix. Si vous voulez un outil de test et d'optimisation post-publication plus poussé, regardez du côté de TubeBuddy.
+![vidIQ outliers veille concurrentielle analyse vidéos YouTube](vidiq-outliers.JPG)
 
 ### Autres alternatives à vidIQ
 
