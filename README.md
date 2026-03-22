@@ -11,7 +11,7 @@
 |---|---|
 | **Note globale** | ⭐ 8,2 / 10 |
 | **Idéal pour** | Créateurs YouTube réguliers (1+ vidéo par semaine) |
-| **Prix** | Gratuit (limité) — Boost ≈ 16,58 €/mois — Coaching ≈ 99 €/mois |
+| **Prix** | Gratuit (limité) — Boost ≈ 16,58 €/mois — Max ≈ 31 €/mois — Coaching ≈ 99 €/mois |
 | **Points forts** | Recherche de mots-clés, score SEO vidéo, idées quotidiennes, veille concurrentielle |
 | **Points faibles** | Interface uniquement en anglais, tarifs élevés sur les plans premium |
 | **Alternatives** | TubeBuddy, Morningfame, YouTube Studio (gratuit) |
