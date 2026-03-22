@@ -48,6 +48,7 @@ Son objectif principal est d'aider les vidéastes à obtenir davantage de vues, 
 - **Après la mise en ligne** : suivi des performances, veille concurrentielle, audit de votre chaîne.
 
 L'outil se distingue par son intégration directe dans l'interface YouTube : une fois l'extension installée, un panneau latéral s'affiche à côté de vos vidéos avec un aperçu complet des métriques clés et des recommandations d'amélioration.
+![Tableau de bord vidIQ dashboard avis fonctionnalités YouTube](vidiq-dashboard.JPG)
 
 ---
 
