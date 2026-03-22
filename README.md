@@ -66,6 +66,7 @@ Pour chaque mot-clé, vidIQ affiche :
 - Des suggestions de mots-clés connexes et de questions fréquentes
 
 Ce système permet de viser des requêtes réalistes par rapport à la taille de votre chaîne, plutôt que de se battre sur des termes ultra-concurrentiels monopolisés par les grandes chaînes.
+![Recherche de mots-clés vidIQ outil SEO YouTube](vidiq-mots-cles.JPG)
 
 ### 📊 Score SEO et audit vidéo
 
