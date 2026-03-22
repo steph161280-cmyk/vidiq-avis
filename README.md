@@ -154,6 +154,7 @@ L'outil propose beaucoup de données et de métriques. Un créateur débutant pe
 ---
 
 ## Les tarifs vidIQ en 2026 : quel plan choisir ?
+![vidIQ tarifs prix plans 2026 gratuit Boost Max](vidiq-tarifs.JPG)
 
 vidIQ propose plusieurs formules. Voici un aperçu détaillé des plans disponibles en mars 2026 :
 
