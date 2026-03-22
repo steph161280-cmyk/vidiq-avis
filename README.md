@@ -174,7 +174,19 @@ vidIQ propose plusieurs formules. Voici un aperçu détaillé des plans disponib
 - Suggestions IA pour titres, descriptions et tags
 - Idées quotidiennes personnalisées complètes
 - Analyse des tendances vidIQ Trending
+- Création de miniatures IA
+- Coach IA avec Deep Thinking
+- Crédits pour le clipping IA et la génération de Shorts
+- Accès aux masterclasses de créateurs
 - **Notre avis** : c'est le plan au meilleur rapport qualité-prix. Recommandé pour les créateurs qui publient au moins une vidéo par semaine et veulent accélérer leur croissance.
+
+### Plan Max — ≈ 31 €/mois (facturation annuelle)
+
+- Toutes les fonctionnalités Boost incluses
+- Conversations illimitées avec le Coach IA
+- Accès au mode "Max Mode" : une IA 5 fois plus puissante, entraînée sur des milliards de vidéos
+- 6 000 crédits pour le clipping IA et la génération de Shorts
+- **Notre avis** : destiné aux créateurs qui exploitent intensivement les outils IA de vidIQ. Si vous utilisez le Coach IA quotidiennement et produisez beaucoup de Shorts, ce plan se justifie.
 
 ### Plan Coaching — ≈ 99 €/mois (facturation annuelle)
 
