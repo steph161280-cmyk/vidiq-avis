@@ -1,4 +1,5 @@
 # vidIQ Avis 2026 : Test Complet après 12 Mois d'Utilisation sur YouTube
+![vidIQ avis 2026 test complet outil YouTube](vidiq-avis.webp)
 
 > **Dernière mise à jour : mars 2026** — Cet avis sur vidIQ repose sur une utilisation quotidienne de l'outil pendant plus d'un an. Fonctionnalités, tarifs, avantages, inconvénients et comparatif avec les alternatives : voici notre verdict honnête.
 
